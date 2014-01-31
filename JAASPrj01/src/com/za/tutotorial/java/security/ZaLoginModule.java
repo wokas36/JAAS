@@ -14,7 +14,7 @@ import javax.security.auth.spi.LoginModule;
 
 public class ZaLoginModule implements LoginModule {
 	
-	public static final String TEST_USERNAME = "zauser";
+	public static final String TEST_USERNAME = "asiri";
 	public static final String TEST_PASSWORD = "password";
 	private CallbackHandler callbackHandler = null;
 	private boolean authenticationSuccessFlag = false;
